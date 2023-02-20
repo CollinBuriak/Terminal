@@ -1,10 +1,11 @@
 {
-	"user_name":Mykola
-	"user_age":28
+	"user_name":"Mykola"
+	"user_age":"28"
 	"user_devices": {
 				"Device_1": "IPhone 13 pro"
 				"Device_2": "MacBooc 14 pro"
 				"Device_3": "MacBook 13 pro"
+				"Divice_4": "Apple Watch 8"
 			{
 
 
