@@ -1,0 +1,12 @@
+pwd
+touch
+cp
+mv
+cat >
+mkdir
+ls
+ls -a
+ls -la
+cd
+rm -rf
+history
