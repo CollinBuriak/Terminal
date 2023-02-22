@@ -10,3 +10,6 @@ ls -la
 cd
 rm -rf
 history
+pwd
+cd
+cd ..
