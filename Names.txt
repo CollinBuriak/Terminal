@@ -1,6 +1,13 @@
 Mykola
+<<<<<<< HEAD
 Igor
 Artur
 Oleksandr
+=======
+Tolik
+Andrey
+--------
+Vova
+>>>>>>> main
 Tania
 Sergo
